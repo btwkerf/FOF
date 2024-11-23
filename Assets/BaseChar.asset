@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f6acc9032564e4a80a04aacbc651f0, type: 3}
+  m_Name: BaseChar
+  m_EditorClassIdentifier: 
+  baseMaxHealth: 0
+  baseRegeneration: 0
+  basePhysDamage: 0
+  baseMagDamage: 0
+  baseSpeed: 20
+  basePhysResistance: 0
+  baseMagResistance: 0
